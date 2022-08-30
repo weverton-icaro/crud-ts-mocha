@@ -19,9 +19,17 @@
 
 - yarn
 
+## configure o banco de dados no arquivo .env
+
+- configuração voltada para utilização do mysql
+
 ## inicie o servidor
 
 - yarn dev
+
+## popule o banco de dados
+
+- yarn seed:users && yarn seed:cars
 
 ## inicie os testes
 

@@ -8,7 +8,7 @@ async function create() {
 
   await connection.query(
     `INSERT INTO users(id, name, email, password, driver_license, created_at, updated_at) 
-      VALUES('1', 'weverton', 'wevertonteste@gmail.com', '${password}', 'xxxxxxxxxxxxx' ,now(), now())`
+      VALUES('1', 'Alguem', 'teste@teste.com', '${password}', 'xxxxxxxxxxxxx' ,now(), now())`
   );
 
   await connection.close();

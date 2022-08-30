@@ -13,7 +13,7 @@ describe("Create Car", () => {
 
   it("should be able create a new car", async () => {
     const responseToken = await chai.request(app).post("/session/login").send({
-      email: "weverton.dev@gmail.com",
+      email: "teste@teste.com",
       password: "12345678",
     });
 
