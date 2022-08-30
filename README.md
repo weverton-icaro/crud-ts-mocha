@@ -1,6 +1,6 @@
 <h1 align="center"> PROJETO CRUD TS-MOCHA </h1>
 
-<h3> Projeto desenvolveido para teste, visando a criação, listagem, atualização e exclusão de veículos e testes unitários. </h3>
+<h3> Projeto desenvolvido para teste, visando a criação, listagem, atualização e exclusão de veículos e testes unitários utilizando Mocha. </h3>
 
 <h2>Dependências</h2>
 
