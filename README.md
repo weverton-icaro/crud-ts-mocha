@@ -15,22 +15,22 @@
 
 - https://github.com/weverton-icaro/crud-ts-mocha.git
 
-## instale as dependências
+### instale as dependências
 
 - yarn
 
-## configure o banco de dados no arquivo .env
+### configure o banco de dados no arquivo .env
 
 - configuração voltada para utilização do mysql
 
-## inicie o servidor
+### inicie o servidor
 
 - yarn dev
 
-## popule o banco de dados
+### popule o banco de dados
 
 - yarn seed:users && yarn seed:cars
 
-## inicie os testes
+### inicie os testes
 
 - yarn test
