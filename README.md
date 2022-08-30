@@ -11,7 +11,7 @@
 
 <h2>Configurações</h2>
 
-## clone o projeto
+### clone o projeto
 
 - https://github.com/weverton-icaro/crud-ts-mocha.git
 
